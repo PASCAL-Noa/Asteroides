@@ -1,0 +1,17 @@
+{
+    "projects": {
+        "Game": {
+            "dependencies": [],
+            "dependents": [],
+            "guid": "562E4F9F-56DB-1BEC-5C1C-4E527C904BA6",
+            "lib": false,
+            "pch": false,
+            "vcpkg": true,
+            "window": false
+        }
+    },
+    "solution_guid": "0B78559D-38D1-69C1-28F9-10235B6069ED",
+    "solution_name": "Asteroides",
+    "startup_project": "Game",
+    "version": "1.17.3"
+}
