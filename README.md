@@ -18,4 +18,4 @@ The gameplay is simple: the player controls a spaceship that must shoot at aster
 5. Run `make.bat`
 6. Run the Breakout.sln
 
-> Made by Pascal Noa\ 
+> Made by Pascal Noa
