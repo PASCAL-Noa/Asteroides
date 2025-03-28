@@ -1,6 +1,6 @@
 # Asteroides
 
-> Directly download the [lasted release](), unzip, and enjoy the game ! \
+> Directly download the [lasted release](https://github.com/PASCAL-Noa/Asteroides/releases/), unzip, and enjoy the game ! \
 > Or you can download the repository to read code.
 
 # About 
