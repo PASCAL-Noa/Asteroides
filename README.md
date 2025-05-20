@@ -14,6 +14,6 @@ The gameplay is simple: the player controls a spaceship that must shoot at aster
 2. Download and install [vcpkg](https://github.com/Microsoft/vcpkg.git)
 4. Go to ./bin
 5. Run `make.bat`
-6. Run the Breakout.sln
+6. Run the Asteroide.sln
 
 > Made by Pascal Noa
